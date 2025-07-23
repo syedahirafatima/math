@@ -24,6 +24,6 @@ This is a simple Python program demonstrating how to use the built-in `math` lib
 2. Trigonometric functions take radians as input.
 
 
-# License:
+#  License:
 
 Under MIT license

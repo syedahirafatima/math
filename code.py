@@ -4,7 +4,7 @@ import math
 num = float(input("Enter a number: "))
 
 # Using math library functions
-print("Square root:", math.sqrt(num))
+print("Square  root:", math.sqrt(num))
 print("Ceiling value:", math.ceil(num))
 print("Floor value:", math.floor(num))
 print("Power (number^2):", math.pow(num, 2))
